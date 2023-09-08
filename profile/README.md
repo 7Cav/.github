@@ -36,4 +36,4 @@ We operate with a military structure, closely resembling the United States Army,
 ## Contact
 
 - Discord: [7Cav Discord Server](https://discord.7cav.us)
-- Email: [contact@7cav.com](mailto:contact@7cav.com)
+- Email: [contact@7cav.com](mailto:contact@7cav.us)
