@@ -17,7 +17,7 @@ Founded in October 2002, 7Cav is one of the oldest clans in the genre. We've evo
 
 ## Membership
 
-We generally have between 300-350 active members at any given time. Membership requirements and benefits can be found [here](https://wiki.7cav.us/wiki/About_Us).
+We generally have between 300-350 active members at any given time. Membership requirements and benefits can be found [here](https://wiki.7cav.us/wiki/About_Us#Minimum_Requirements).
 
 ## How to Join
 
