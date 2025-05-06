@@ -37,3 +37,5 @@ We operate with a military structure, closely resembling the United States Army,
 
 - Discord: [7Cav Discord Server](https://discord.gg/7cav)
 - Email: [contact@7cav.us](mailto:contact@7cav.us)
+
+## As of May 6th 2025, We are now requiring Semantic Versioning for any data that is staged as releases. See https://semver.org/ for more detail.
