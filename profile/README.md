@@ -10,7 +10,7 @@ Founded in October 2002, 7Cav is one of the oldest clans in the genre. We've evo
 
 ## Games We Play
 
-- Arma 3
+- Arma Reforger
 - Hell Let Loose
 - DCS
 - Squad
